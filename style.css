@@ -1,0 +1,126 @@
+.navbar{
+    margin-bottom: 0;
+}
+.carousel-control.right, .home .carousel-control.left {
+    background-image: none;
+}
+.carousel-control.right {
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
+    padding-left: 8px;
+}
+.carousel-control {
+    background-color: rgba(225, 225, 225, 0.3);
+    height: 50px;
+    padding-top: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+    width: 45px;
+    top: 38%;
+    opacity: 1;
+}
+.carousel-control:hover{
+    background-color: #556273;
+}
+.navbar-default .navbar-nav>li>a {
+    text-transform: uppercase;
+    padding:0px;
+    margin:20px 20px 20px 20px;
+}
+.navbar-nav>li>a:hover{
+    border-bottom: 1px solid #000;
+}
+.footer-top {
+    background-color: #313d4d;
+    padding: 4rem 0;
+}
+.footer-bottom {
+    padding: 2rem;
+    background-color: #2c3846;
+}
+.footer-bottom p {
+    color: #999;
+    font-size: 12px;
+    font-weight: 300;
+    margin-bottom: 7px;
+}
+.footer-top h2 {
+    font-weight: 300;
+    color: #fff;
+    font-size: 22px;
+    margin-bottom: 10px;
+}
+.footer-top p {
+    color: #fff;
+    font-size: 13px;
+    font-weight: 100;
+}
+.heading-border {
+    width: 50px;
+    height: 1px;
+    opacity: 0.5;
+    margin-bottom: 30px;
+}
+.b-color-1 {
+    background-color: #1ac4e2;
+}
+.footer-top strong {
+    color: #fff;
+    letter-spacing: 0.5px;
+    margin-top: 15px;
+    display: block;
+    font-size: 16px;
+    font-weight: 400;
+}
+.col-sm-3 p{
+    margin:0px;
+    font-family: "Lantinghei TC";
+}
+.my{
+    color: #e7e7e7;
+}
+.popular{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.t-color-1 {
+    color: #aa2633;
+}
+.most-popular{
+    margin-bottom: 30px;
+    text-align: center;
+}
+.col-sm-4{
+    padding:0;
+}
+.categories{
+    text-align: center;
+}
+.single-add{
+    margin-left: 5px;
+    margin-right: 5px;
+
+}
+.emarket-adds{
+    margin-bottom: 50px;
+}
+.carousel-indicators li.active .fa {
+    background-color: #1ac4e2;
+    color: #fff;
+}
+.carousel-indicators {
+    margin-left: 0;
+    right: 0;
+    left: auto;
+    top: -70px;
+    width: auto;
+}
+.carousel-indicators li {
+    border: 1px solid transparent;
+    display: inline;
+    margin: 0;
+    text-indent: 0;
+}
+.top-pic{
+    text-align: center;
+}
