@@ -37,7 +37,7 @@
     margin:20px 35px 20px 35px;
 }
 .navbar-nav>li>a:hover{
-    border-bottom: 1px solid #000;
+    text-decoration: underline;
 }
 .nav_item a{
     font-size: 15px;
@@ -139,4 +139,27 @@
 }
 .top-pic{
     text-align: center;
+}
+.header-search {
+    width: 300px;
+    height: 40px;
+    border-radius: 18px;
+    outline: none;
+    border: 1px solid #ccc;
+    padding-left: 20px;
+}
+.btn2 {
+    height: 35px;
+    border-radius: 18px;
+    top: 6px;
+    left: 285px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+.header-parent {
+    position: relative;
+}
+.header-sea{
+    float: right;
 }
