@@ -99,6 +99,18 @@
     color: #515151;
     text-decoration: none;
 }
+.btn-default{
+    color:#777777;
+}
+.btn-default:hover{
+    color:#000000;
+}
+.btn-default:visited{
+    color:#777777;
+}
+.my:visited{
+    color: black;
+}
 .popular{
     margin-top: 30px;
     margin-bottom: 30px;
