@@ -19,6 +19,31 @@
     padding-left: 15px;
     padding-right: 15px;
 }
+.top-1{
+    display: inline-block;
+}
+.six-pics-top{
+    margin:20px 0 10px 0;
+    display: inline-block;
+}
+.top-l{
+    margin-right: 40px;
+}
+.top-m{
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.top-r{
+    margin-left:40px;
+}
+.top-table td{
+    min-width:35px;
+}
+.back-ground{
+    background-color: #ffffff;
+    margin-bottom: 20px;
+    text-align: center;
+}
 .six-pics,
 .on_sale{
     width:1170px;
