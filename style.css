@@ -2,12 +2,53 @@
     background-color: #f5f5f5;
     font-family: "Arial";
 }
+.logo-add{
+    background-color: #ffffff;
+}
 .navbar{
     margin-bottom: 0;
 }
 .thumbnail{
     min-height: 340px;
     border: 0;
+}
+.intro{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1170px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.six-pics,
+.on_sale{
+    width:1170px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 60px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.send_letter_item{
+    text-align: center;
+    display: inline-block;
+    margin-left: 18px;
+    margin-right: 18px;
+}
+.on_sale_item{
+    display: inline-block;
+    height:310px;
+    width:270px;
+    background-color: #ffffff;
+}
+.in-on-sale-pic{
+    text-align: center;
+}
+.in-on-sale{
+    margin:15px;
+}
+.in-on-btn{
+    margin-left: 15px;
+    margin-top: -15px;
 }
 .des{
     min-height: 50px;
@@ -113,7 +154,7 @@
 }
 .popular{
     margin-top: 30px;
-    margin-bottom: 30px;
+    margin-bottom: 60px;
 }
 .t-color-1 {
     color: #aa2633;
