@@ -27,14 +27,19 @@
     display: inline-block;
 }
 .top-l{
-    margin-right: 40px;
+    margin-right: 35px;
+    text-align: left;
+    margin-left: 5px;
 }
 .top-m{
-    margin-left: 40px;
-    margin-right: 40px;
+    margin-left: 35px;
+    margin-right: 35px;
+    text-align: left;
 }
 .top-r{
-    margin-left:40px;
+    margin-left:35px;
+    text-align: left;
+    margin-right: 5px;
 }
 .top-table td{
     min-width:35px;
@@ -43,6 +48,9 @@
     background-color: #ffffff;
     margin-bottom: 20px;
     text-align: center;
+}
+.last-tab td{
+    min-height: 2px;
 }
 .six-pics,
 .on_sale{
@@ -89,7 +97,7 @@
 }
 .intro .slide .carousel-control {
     height: 50px;
-    padding-top: 15px;
+    padding-top: 10px;
     padding-left: 5px;
     padding-right: 5px;
     width: 45px;
