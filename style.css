@@ -186,7 +186,7 @@
     font-weight: 400;
 }
 .col-sm-3 p{
-    margin:0px;
+    margin:0;
 }
 .footer-top .container .row .col-sm-3 .my a{
     color: black;
@@ -211,6 +211,7 @@
 }
 .my-top:visited{
     color: black;
+    text-decoration: #ffffff;
 }
 .btn-default{
     color:#777777;
@@ -221,8 +222,9 @@
 .btn-default:visited{
     color:#777777;
 }
-.my:visited{
+.my a:visited{
     color: black;
+    text-decoration: #ffffff;
 }
 .popular{
     margin-top: 30px;
@@ -285,21 +287,21 @@
     font-size: 1.2vw;
     font-weight: lighter;
     text-align: center;
-    position: relative;/*使子元素相对父元素进行绝对定位*/
+    position: relative;
 }
 .qpp-line ul li::before{
     content: "";
     position: absolute;
     top: 0;
-    left: 0;/*靠最左边开始*/
-    border-bottom: 2px solid #000000;/*设置底部边颜色*/
-    width: 0;/*宽度为0，这里的宽度是相对与li的宽度*/
-    height: 100%;/*设置高度使它和li等高*/
+    left: 0;
+    border-bottom: 2px solid #000000;
+    width: 0;
+    height: 100%;
 }
-.qpp-line ul li:hover::before{/*鼠标hover，状态发生改变*/
+.qpp-line ul li:hover::before{
     width: 100%;
-    transition: 0.2s all linear;/*设置过度时间*/
-    transition-delay: 0.1s;/*过度延时*/
+    transition: 0.2s all linear;
+    transition-delay: 0.1s;
 }
 .logo{
     margin-left: 45px;
