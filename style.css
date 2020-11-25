@@ -209,6 +209,17 @@
     color: #515151;
     text-decoration: none;
 }
+.on_sale .most-popular a{
+    color: black;
+}
+.on_sale .most-popular a:hover{
+    color: #515151;
+    text-decoration: none;
+}
+.on_sale .most-popular a:visited{
+    color: black;
+    text-decoration: #ffffff;
+}
 .my-top:visited{
     color: black;
     text-decoration: #ffffff;
@@ -303,15 +314,16 @@
     transition: 0.2s all linear;
     transition-delay: 0.1s;
 }
-.logo{
-    margin-left: 45px;
-}
 .contact{
     margin-left: 30px;
 }
 .popular .slide .carousel-control.right, .popular .slide .carousel-control.left {
     background-image: none;
     font-size: 40px;
+}
+.logo{
+    margin-top: 12px;
+    margin-bottom: 10px;
 }
 .popular .slide .carousel-control.right {
     border-top-left-radius: 4px;
@@ -333,6 +345,9 @@
 .about-content{
     margin:50px 0 50px 0;
     font-size: larger;
+}
+.intro-left-pics{
+    text-align: center;
 }
 
 
