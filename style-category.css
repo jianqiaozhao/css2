@@ -3,7 +3,8 @@ body
 {
     margin: 0;
     padding: 0;
-    font-family: 'Nunito', sans-serif;
+    /*font-family: 'Nunito', sans-serif;*/
+    font-family: 'Arial';
     font-size: 14px;
     display: inline-block;
     width: 100% !important;
@@ -13,7 +14,7 @@ body
 }
 .ahihi a{box-shadow:5px 4px 6px #ccc;}
 input, button, select, textarea{ outline: none; font-family: 'Nunito', sans-serif;}
-#Body, #Body *{font-family: 'Nunito', sans-serif;}
+#Body, #Body *{font-family: 'Arial';}
 a, p, strong, ul, h1, h2, h3, h4, h5, h6{margin: 0;padding: 0}
 h1{font-size: 24px}
 h3{font-size: 28px}
@@ -589,13 +590,13 @@ td#CentralArea span.pdmt{ position: absolute; top: -27px; right:0px; padding-rig
 .pagewidth div.r3_cm div.rs_box .dynpg  .m .pager .prev {padding: 0}
 .pagewidth div.r3_cm div.rs_box .dynpg  .m .pager .next {padding: 0}
 .pagewidth div.r3_cm div.rs_box .dynpg  .m .pager .prev a:first-child{display:none}
-.pagewidth div.r3_cm div.rs_box .dynpg  .m .pager .prev a.disabled:last-child{background: url(../images/MC-ico.png) no-repeat -20px -131px; width: 6px; height: 10px;margin-right: 16px}
-.pagewidth div.r3_cm div.rs_box .dynpg  .m .pager .prev a.enabled:last-child{display: inline-block; background: url(../images/MC-ico.png) no-repeat -26px -136px; width: 6px; height: 10px;margin-right: 16px}
+.pagewidth div.r3_cm div.rs_box .dynpg  .m .pager .prev a.disabled:last-child{background: url(https://huaweimobiles.com.au/wp-content/uploads/2020/12/left-en.png) no-repeat 2px 2px;margin:4px 0 0 0}
+.pagewidth div.r3_cm div.rs_box .dynpg  .m .pager .prev a.enabled:last-child{display: inline-block; background: url(https://huaweimobiles.com.au/wp-content/uploads/2020/12/left.png) no-repeat 2px 2px;margin:4px 0 0 0}
 .pagewidth div.r3_cm div.rs_box .dynpg  .m .pager .next{padding-left: 0}
 .pagewidth div.r3_cm div.rs_box .dynpg  .m .pager .next a.disabled:first-child{display:none    }
 .pagewidth div.r3_cm div.rs_box .dynpg  .m .pager .next a:first-child{display:none}
-.pagewidth div.r3_cm div.rs_box .dynpg  .m .pager .next a.disabled:last-child{background: url(../images/MC-ico.png) no-repeat -32px -131px; width: 6px; height: 10px;margin-right: 16px}
-.pagewidth div.r3_cm div.rs_box .dynpg  .m .pager .next a.enabled:last-child{ display: inline-block;background: url(../images/MC-ico.png) no-repeat -14px -131px; width: 6px; height: 10px; margin-left: 16px;}
+.pagewidth div.r3_cm div.rs_box .dynpg  .m .pager .next a.disabled:last-child{background: url(https://huaweimobiles.com.au/wp-content/uploads/2020/12/right-en.png) no-repeat 2px 2px;margin:4px 0 0 0}
+.pagewidth div.r3_cm div.rs_box .dynpg  .m .pager .next a.enabled:last-child{ display: inline-block;background: url(https://huaweimobiles.com.au/wp-content/uploads/2020/12/right.png) no-repeat 2px 2px;margin:4px 0 0 0}
 .pagewidth div.r3_cm div.rs_box .dynpg  .m .pager .pages .pipe{ display: none; }
 .pagewidth div.r3_cm div.rs_box .dynpg  .m .pager .pages a{color: #111111 !important; font-family: 'Nunito', sans-serif; font-size:14px; line-height: 15px; padding:7px 7px 7px 7px; display:table-cell;   display: inline-block; font-weight: 400; margin: 0 2px}
 .pagewidth div.r3_cm div.rs_box .dynpg  .m .pager .pages a.disabled,.pagewidth div.r3_cm div.rs_box .dynpg  .m .pager .pages a:hover{color:#ffffff !important;background: #aa2633;}
