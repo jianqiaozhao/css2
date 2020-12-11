@@ -11,9 +11,6 @@ body
     overflow-x: hidden;
     font-weight:400;
 }
-tbody{
-    background-color: #f5f5f5;
-}
 .ahihi a{box-shadow:5px 4px 6px #ccc;}
 input, button, select, textarea{ outline: none; font-family: 'Nunito', sans-serif;}
 #Body, #Body *{font-family: 'Arial';}
